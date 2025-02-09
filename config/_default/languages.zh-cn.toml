@@ -1,0 +1,22 @@
+languageCode = "zh-cn"
+languageName = "简体中文"
+weight = 4
+title = "阿伦博客"
+
+
+[params]
+  displayName = "简体中文"
+  isoCode = "zh-cn"
+  rtl = false
+  dateFormat = "2006-01-02"
+#  logo = "img/blowfish_logo_transparent.png"
+  description = ""
+
+[author]
+  name = "阿伦"
+#  image = "img/header.png"
+  headline = "个人博客"
+  bio = "个人博客"
+  links = [
+    { github = "https://github.com/mrzhangboss" },
+  ]
